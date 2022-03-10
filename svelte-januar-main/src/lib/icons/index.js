@@ -1,0 +1,4 @@
+export { default as Icon } from './Icon.svelte'
+export { default as iconlib } from './iconlib'
+export const iconlist = ["alert", "archive", "arrow-left", "at", "bookmark", "camera", "cast", "check", "code", "compass", "copy", "database", "eye", "eye-off", "file", "film", "filter", "globe", "grid", "home", "hsp", "image", "left", "mail", "menu", "mic", "more-vertical", "music", "navigation", "pause", "play", "power", "right", "save", "server", "settings", "shield", "shield-off", "speaker", "tag", "trash", "tube", "user", "user-auth", "user-unauth", "video", "video-off", "volume", "volume-off", "warn", "wifi", "x", "zap", "zap-off"];
+  

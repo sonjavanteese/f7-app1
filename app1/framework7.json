@@ -1,0 +1,20 @@
+{
+  "cwd": "C:\\xampp\\htdocs\\git\\f7\\app1",
+  "type": [
+    "web",
+    "pwa"
+  ],
+  "name": "My App",
+  "framework": "svelte",
+  "template": "single-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
